@@ -1,8 +1,16 @@
-# React + Vite
+# 🌦 Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple Weather App that I built on my own to strengthen my understanding of React, API integration, and Tailwind CSS. The goal was to practice working with external data, state management, and UI design.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Technologies Used
+React – for building the UI
+Tailwind CSS – for fast and flexible styling
+Axios – for fetching weather data from the OpenWeatherMap API
+Moment.js – for handling date and time formatting
+✨ Features
+Search for the current weather of any city
+Display temperature, humidity, wind speed, and weather conditions
+5-day weather forecast with icons
+Simple and modern UI
+💡 Why I Built This
+I wanted to improve my ability to work with APIs, manage state effectively, and design responsive UIs using Tailwind. This project helped me get more comfortable handling real-time data and improving the user experience.
