@@ -1,4 +1,4 @@
-# 🌦 Weather App
+# 🌦 Weather App - work in progress
 
 This is a simple Weather App that I built on my own to strengthen my understanding of React, API integration, and Tailwind CSS. The goal was to practice working with external data, state management, and UI design.
 
