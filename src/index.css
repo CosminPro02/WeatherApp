@@ -6,7 +6,7 @@ body{
 }
  
  .background-image {
-  background: url(cloudsbg.jpg);
+  background: url(/cloudsbg.jpg);
   background-size: cover;
   background-position: center;
   min-height: 100vh;
